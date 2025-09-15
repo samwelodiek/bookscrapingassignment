@@ -45,7 +45,7 @@ This project is a full-stack geospatial data science pipeline, leveraging modern
 
 The goal wasn't just to plot rainfall; it was to derive **agronomically intelligent signals** from the noise of weather data.
 
-**Key Insights and "Aha!" Moments:**
+**Key Insights:**
 
 *   **The "Average" Rainy Season is a Myth:** Simply looking at a monthly average rainfall map is useless. The real insight comes from analyzing **probabilities and variability**. For instance, I could show: "In District X, there is a 70% probability that the rains will have started by April 15th, but a 40% chance of a damaging 10-day dry spell in the first month." This probabilistic thinking is what farmers actually need.
 *   **Spatial Variability is Massive:** Two regions just 50 km apart can have statistically different onset dates by over two weeks. A country-level advisory is too coarse to be useful. **Hyper-local insights are non-negotiable.**
@@ -82,5 +82,6 @@ The benefits are concrete and measurable, leading to direct social and economic 
 **For an NGO or Government Agency:**
 *   **Targeted Intervention:** Instead of blanketing a country with a single message, they can use the maps to target SMS alerts about impending dry spells only to the districts actually at risk, making their programs more efficient and effective.
 *   **Data-Driven Policy:** The analysis provides hard evidence of how climate patterns are changing, informing national food security policy and resource allocation for irrigation projects or drought relief.
+
 
 In essence, the value of this work is not a pretty map; it's the translation of complex data into **better decisions, reduced risk, and ultimately, more food on the table and more money in the pockets of farmers.**
